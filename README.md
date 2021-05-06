@@ -4,7 +4,7 @@
 
 > A Simple Restaurant App
 
-![Pizza Page](src/imgages/website-pizza.png)
+![Pizza Page](src/images/website-pizza.png)
 
 ## Installation
 
