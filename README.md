@@ -4,8 +4,8 @@
 
 > A Simple Restaurant App
 
+- [Ver Demo](https://vhalvarez.github.io/reactjs-restaurant/)
 
-[Demo](https://vhalvarez.github.io/reactjs-restaurant/)
 ![Pizza Page](src/images/website-pizza.png)
 
 ## Installation
